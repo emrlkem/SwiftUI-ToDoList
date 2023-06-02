@@ -1,4 +1,4 @@
-My first try to complete a full mobile application. While I did the ToDoList app, I used and applied some critical coding principles such as;
+My first try to complete a full mobile application. While I did the ToDoList app, I used and applied fundamental coding principles such as;
 
 - using MVVM Architecture (Model, View, Model View)
 
